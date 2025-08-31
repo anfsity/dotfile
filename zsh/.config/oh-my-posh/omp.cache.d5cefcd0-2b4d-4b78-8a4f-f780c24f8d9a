@@ -1,0 +1,12 @@
+{
+    "prompt_count_cache": {
+        "value": "10",
+        "timestamp": 1753167028,
+        "ttl": 86400
+    },
+    "template_cache": {
+        "value": "{\"SegmentsCache\":{\"Executiontime\":{\"Segment\":{\"Text\":\" \\u003c#BBC4B9\\u003e0.024s\\u003c/\\u003e \\u003c#fff\\u003e󰇝\\u003c/\\u003e\",\"Index\":0},\"FormattedMs\":\"0.024\",\"Ms\":24},\"Path\":{\"Segment\":{\"Text\":\"  home / Videos / 青春猪头少年不会梦到圣诞服女郎\",\"Index\":0},\"Location\":\"/home/anfsity/Videos/青春猪头少年不会梦到圣诞服女郎\",\"Path\":\"home / Videos / 青春猪头少年不会梦到圣诞服女郎\",\"Folders\":[{\"Name\":\"Videos\",\"Path\":\"home/Videos\",\"Display\":false},{\"Name\":\"青春猪头少年不会梦到圣诞服女郎\",\"Path\":\"home/Videos/青春猪头少年不会梦到圣诞服女郎\",\"Display\":false}],\"StackCount\":4,\"Writable\":true,\"RootDir\":false},\"Session\":{\"Segment\":{\"Text\":\"anfsity \",\"Index\":0},\"SSHSession\":false},\"Shell\":{\"Segment\":{\"Text\":\" \\u003c#fff\\u003e\\u003c/\\u003e zsh \",\"Index\":1},\"Name\":\"zsh\",\"Version\":\"5.9\"},\"Status\":{\"Segment\":{\"Text\":\" ~ \",\"Index\":1},\"String\":\"0\",\"Meaning\":\"0\",\"Error\":false},\"Time\":{\"Segment\":{\"Text\":\" Tuesday \\u003c#fff\\u003eat\\u003c/\\u003e 2:50 PM \",\"Index\":1},\"CurrentDate\":\"2025-07-22T14:50:28.89928586+08:00\",\"Format\":\"Monday \\u003c#fff\\u003eat\\u003c/\\u003e 3:04 PM\"}},\"Segments\":{},\"Var\":{},\"PWD\":\"~/Videos/青春猪头少年不会梦到圣诞服女郎\",\"Folder\":\"青春猪头少年不会梦到圣诞服女郎\",\"PSWD\":\"\",\"UserName\":\"anfsity\",\"HostName\":\"Anfsity\",\"ShellVersion\":\"5.9\",\"Shell\":\"zsh\",\"AbsolutePWD\":\"/home/anfsity/Videos/青春猪头少年不会梦到圣诞服女郎\",\"OS\":\"arch\",\"Version\":\"26.15.0\",\"PromptCount\":10,\"SHLVL\":1,\"Jobs\":0,\"Code\":0,\"WSL\":false,\"Root\":false}",
+        "timestamp": 1753167028,
+        "ttl": 86400
+    }
+}

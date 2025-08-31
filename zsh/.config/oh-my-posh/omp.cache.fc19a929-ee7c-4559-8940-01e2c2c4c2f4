@@ -1,0 +1,12 @@
+{
+    "prompt_count_cache": {
+        "value": "25",
+        "timestamp": 1755753326,
+        "ttl": 86400
+    },
+    "template_cache": {
+        "value": "{\"SegmentsCache\":{\"Executiontime\":{\"Segment\":{\"Text\":\" \\u003c#BBC4B9\\u003e0.553s\\u003c/\\u003e \\u003c#fff\\u003e󰇝\\u003c/\\u003e\",\"Index\":0},\"FormattedMs\":\"0.553\",\"Ms\":553},\"Path\":{\"Segment\":{\"Text\":\"  etc / NetworkManager / conf.d\",\"Index\":0},\"Location\":\"/etc/NetworkManager/conf.d\",\"Path\":\"etc / NetworkManager / conf.d\",\"Folders\":[{\"Name\":\"etc\",\"Path\":\"/etc\",\"Display\":false},{\"Name\":\"NetworkManager\",\"Path\":\"/etc/NetworkManager\",\"Display\":false},{\"Name\":\"conf.d\",\"Path\":\"/etc/NetworkManager/conf.d\",\"Display\":false}],\"StackCount\":2,\"Writable\":false,\"RootDir\":false},\"Session\":{\"Segment\":{\"Text\":\"anfsity \",\"Index\":0},\"SSHSession\":false},\"Shell\":{\"Segment\":{\"Text\":\" \\u003c#fff\\u003e\\u003c/\\u003e zsh \",\"Index\":1},\"Name\":\"zsh\",\"Version\":\"5.9\"},\"Status\":{\"Segment\":{\"Text\":\" ~ \",\"Index\":1},\"String\":\"0\",\"Meaning\":\"0\",\"Error\":false},\"Time\":{\"Segment\":{\"Text\":\" Thursday \\u003c#fff\\u003eat\\u003c/\\u003e 1:15 PM \",\"Index\":1},\"CurrentDate\":\"2025-08-21T13:15:26.431836419+08:00\",\"Format\":\"Monday \\u003c#fff\\u003eat\\u003c/\\u003e 3:04 PM\"}},\"Segments\":{},\"Var\":{},\"PWD\":\"/etc/NetworkManager/conf.d\",\"Folder\":\"conf.d\",\"PSWD\":\"\",\"UserName\":\"anfsity\",\"HostName\":\"Anfsity\",\"ShellVersion\":\"5.9\",\"Shell\":\"zsh\",\"AbsolutePWD\":\"/etc/NetworkManager/conf.d\",\"OS\":\"arch\",\"Version\":\"26.15.0\",\"PromptCount\":25,\"SHLVL\":2,\"Jobs\":0,\"Code\":0,\"WSL\":false,\"Root\":false}",
+        "timestamp": 1755753326,
+        "ttl": 86400
+    }
+}

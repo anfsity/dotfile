@@ -1,0 +1,12 @@
+{
+    "prompt_count_cache": {
+        "value": "13",
+        "timestamp": 1754141507,
+        "ttl": 86400
+    },
+    "template_cache": {
+        "value": "{\"SegmentsCache\":{\"Executiontime\":{\"Segment\":{\"Text\":\" \\u003c#BBC4B9\\u003e0.039s\\u003c/\\u003e \\u003c#fff\\u003e󰇝\\u003c/\\u003e\",\"Index\":0},\"FormattedMs\":\"0.039\",\"Ms\":39},\"Path\":{\"Segment\":{\"Text\":\"  home / CP / AtCoder / AtCoder Beginner Contest 417\",\"Index\":0},\"Location\":\"/home/anfsity/CP/AtCoder/AtCoder Beginner Contest 417\",\"Path\":\"home / CP / AtCoder / AtCoder Beginner Contest 417\",\"Folders\":[{\"Name\":\"CP\",\"Path\":\"home/CP\",\"Display\":false},{\"Name\":\"AtCoder\",\"Path\":\"home/CP/AtCoder\",\"Display\":false},{\"Name\":\"AtCoder Beginner Contest 417\",\"Path\":\"home/CP/AtCoder/AtCoder Beginner Contest 417\",\"Display\":false}],\"StackCount\":0,\"Writable\":true,\"RootDir\":false},\"Session\":{\"Segment\":{\"Text\":\"anfsity \",\"Index\":0},\"SSHSession\":false},\"Shell\":{\"Segment\":{\"Text\":\" \\u003c#fff\\u003e\\u003c/\\u003e zsh \",\"Index\":1},\"Name\":\"zsh\",\"Version\":\"5.9\"},\"Status\":{\"Segment\":{\"Text\":\" ~ \",\"Index\":1},\"String\":\"0\",\"Meaning\":\"0\",\"Error\":false},\"Time\":{\"Segment\":{\"Text\":\" Saturday \\u003c#fff\\u003eat\\u003c/\\u003e 9:31 PM \",\"Index\":1},\"CurrentDate\":\"2025-08-02T21:31:47.787022859+08:00\",\"Format\":\"Monday \\u003c#fff\\u003eat\\u003c/\\u003e 3:04 PM\"}},\"Segments\":{},\"Var\":{},\"PWD\":\"~/CP/AtCoder/AtCoder Beginner Contest 417\",\"Folder\":\"AtCoder Beginner Contest 417\",\"PSWD\":\"\",\"UserName\":\"anfsity\",\"HostName\":\"Anfsity\",\"ShellVersion\":\"5.9\",\"Shell\":\"zsh\",\"AbsolutePWD\":\"/home/anfsity/CP/AtCoder/AtCoder Beginner Contest 417\",\"OS\":\"arch\",\"Version\":\"26.15.0\",\"PromptCount\":13,\"SHLVL\":3,\"Jobs\":0,\"Code\":0,\"WSL\":false,\"Root\":false}",
+        "timestamp": 1754141507,
+        "ttl": 86400
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "prompt_count_cache": {
+        "value": "28",
+        "timestamp": 1755881083,
+        "ttl": 86400
+    },
+    "template_cache": {
+        "value": "{\"SegmentsCache\":{\"Executiontime\":{\"Segment\":{\"Text\":\" \\u003c#BBC4B9\\u003e0.018s\\u003c/\\u003e \\u003c#fff\\u003e󰇝\\u003c/\\u003e\",\"Index\":0},\"FormattedMs\":\"0.018\",\"Ms\":18},\"Path\":{\"Segment\":{\"Text\":\"  home / CP / Virtual Judge / Summer CF 1400D\",\"Index\":0},\"Location\":\"/home/anfsity/CP/Virtual Judge/Summer CF 1400D\",\"Path\":\"home / CP / Virtual Judge / Summer CF 1400D\",\"Folders\":[{\"Name\":\"CP\",\"Path\":\"home/CP\",\"Display\":false},{\"Name\":\"Virtual Judge\",\"Path\":\"home/CP/Virtual Judge\",\"Display\":false},{\"Name\":\"Summer CF 1400D\",\"Path\":\"home/CP/Virtual Judge/Summer CF 1400D\",\"Display\":false}],\"StackCount\":0,\"Writable\":true,\"RootDir\":false},\"Session\":{\"Segment\":{\"Text\":\"anfsity \",\"Index\":0},\"SSHSession\":false},\"Shell\":{\"Segment\":{\"Text\":\" \\u003c#fff\\u003e\\u003c/\\u003e zsh \",\"Index\":1},\"Name\":\"zsh\",\"Version\":\"5.9\"},\"Status\":{\"Segment\":{\"Text\":\" ~ \",\"Index\":1},\"String\":\"0\",\"Meaning\":\"0\",\"Error\":false},\"Time\":{\"Segment\":{\"Text\":\" Saturday \\u003c#fff\\u003eat\\u003c/\\u003e 12:44 AM \",\"Index\":1},\"CurrentDate\":\"2025-08-23T00:44:43.161605657+08:00\",\"Format\":\"Monday \\u003c#fff\\u003eat\\u003c/\\u003e 3:04 PM\"}},\"Segments\":{},\"Var\":{},\"PWD\":\"~/CP/Virtual Judge/Summer CF 1400D\",\"Folder\":\"Summer CF 1400D\",\"PSWD\":\"\",\"UserName\":\"anfsity\",\"HostName\":\"Anfsity\",\"ShellVersion\":\"5.9\",\"Shell\":\"zsh\",\"AbsolutePWD\":\"/home/anfsity/CP/Virtual Judge/Summer CF 1400D\",\"OS\":\"arch\",\"Version\":\"26.15.0\",\"PromptCount\":28,\"SHLVL\":3,\"Jobs\":0,\"Code\":0,\"WSL\":false,\"Root\":false}",
+        "timestamp": 1755881083,
+        "ttl": 86400
+    }
+}

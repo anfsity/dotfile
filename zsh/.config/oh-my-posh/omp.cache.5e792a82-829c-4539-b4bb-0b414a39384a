@@ -1,0 +1,12 @@
+{
+    "prompt_count_cache": {
+        "value": "25",
+        "timestamp": 1754108281,
+        "ttl": 86400
+    },
+    "template_cache": {
+        "value": "{\"SegmentsCache\":{\"Executiontime\":{\"Segment\":{\"Text\":\" \\u003c#BBC4B9\\u003e0.016s\\u003c/\\u003e \\u003c#fff\\u003e󰇝\\u003c/\\u003e\",\"Index\":0},\"FormattedMs\":\"0.016\",\"Ms\":16},\"Path\":{\"Segment\":{\"Text\":\"  usr / share / sddm / themes / Layan\",\"Index\":0},\"Location\":\"/usr/share/sddm/themes/Layan\",\"Path\":\"usr / share / sddm / themes / Layan\",\"Folders\":[{\"Name\":\"usr\",\"Path\":\"/usr\",\"Display\":false},{\"Name\":\"share\",\"Path\":\"/usr/share\",\"Display\":false},{\"Name\":\"sddm\",\"Path\":\"/usr/share/sddm\",\"Display\":false},{\"Name\":\"themes\",\"Path\":\"/usr/share/sddm/themes\",\"Display\":false},{\"Name\":\"Layan\",\"Path\":\"/usr/share/sddm/themes/Layan\",\"Display\":false}],\"StackCount\":4,\"Writable\":false,\"RootDir\":false},\"Session\":{\"Segment\":{\"Text\":\"anfsity \",\"Index\":0},\"SSHSession\":false},\"Shell\":{\"Segment\":{\"Text\":\" \\u003c#fff\\u003e\\u003c/\\u003e zsh \",\"Index\":1},\"Name\":\"zsh\",\"Version\":\"5.9\"},\"Status\":{\"Segment\":{\"Text\":\" ~ \",\"Index\":1},\"String\":\"127\",\"Meaning\":\"NOTFOUND\",\"Error\":true},\"Time\":{\"Segment\":{\"Text\":\" Saturday \\u003c#fff\\u003eat\\u003c/\\u003e 12:18 PM \",\"Index\":1},\"CurrentDate\":\"2025-08-02T12:18:01.793513389+08:00\",\"Format\":\"Monday \\u003c#fff\\u003eat\\u003c/\\u003e 3:04 PM\"}},\"Segments\":{},\"Var\":{},\"PWD\":\"/usr/share/sddm/themes/Layan\",\"Folder\":\"Layan\",\"PSWD\":\"\",\"UserName\":\"anfsity\",\"HostName\":\"Anfsity\",\"ShellVersion\":\"5.9\",\"Shell\":\"zsh\",\"AbsolutePWD\":\"/usr/share/sddm/themes/Layan\",\"OS\":\"arch\",\"Version\":\"26.15.0\",\"PromptCount\":25,\"SHLVL\":2,\"Jobs\":0,\"Code\":127,\"WSL\":false,\"Root\":false}",
+        "timestamp": 1754108281,
+        "ttl": 86400
+    }
+}

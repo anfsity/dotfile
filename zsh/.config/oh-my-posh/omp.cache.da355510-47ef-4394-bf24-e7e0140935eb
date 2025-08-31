@@ -1,0 +1,12 @@
+{
+    "prompt_count_cache": {
+        "value": "7",
+        "timestamp": 1753704103,
+        "ttl": 86400
+    },
+    "template_cache": {
+        "value": "{\"SegmentsCache\":{\"Executiontime\":{\"Segment\":{\"Text\":\" \\u003c#BBC4B9\\u003e40:56.442s\\u003c/\\u003e \\u003c#fff\\u003e󰇝\\u003c/\\u003e\",\"Index\":0},\"FormattedMs\":\"40:56.442\",\"Ms\":2456442},\"Path\":{\"Segment\":{\"Text\":\"  home / Downloads\",\"Index\":0},\"Location\":\"/home/anfsity/Downloads\",\"Path\":\"home / Downloads\",\"Folders\":[{\"Name\":\"Downloads\",\"Path\":\"home/Downloads\",\"Display\":false}],\"StackCount\":2,\"Writable\":true,\"RootDir\":false},\"Session\":{\"Segment\":{\"Text\":\"anfsity \",\"Index\":0},\"SSHSession\":false},\"Shell\":{\"Segment\":{\"Text\":\" \\u003c#fff\\u003e\\u003c/\\u003e zsh \",\"Index\":1},\"Name\":\"zsh\",\"Version\":\"5.9\"},\"Status\":{\"Segment\":{\"Text\":\" ~ \",\"Index\":1},\"String\":\"127\",\"Meaning\":\"NOTFOUND\",\"Error\":true},\"Time\":{\"Segment\":{\"Text\":\" Monday \\u003c#fff\\u003eat\\u003c/\\u003e 8:01 PM \",\"Index\":1},\"CurrentDate\":\"2025-07-28T20:01:43.325382728+08:00\",\"Format\":\"Monday \\u003c#fff\\u003eat\\u003c/\\u003e 3:04 PM\"}},\"Segments\":{},\"Var\":{},\"PWD\":\"~/Downloads\",\"Folder\":\"Downloads\",\"PSWD\":\"\",\"UserName\":\"anfsity\",\"HostName\":\"Anfsity\",\"ShellVersion\":\"5.9\",\"Shell\":\"zsh\",\"AbsolutePWD\":\"/home/anfsity/Downloads\",\"OS\":\"arch\",\"Version\":\"26.15.0\",\"PromptCount\":7,\"SHLVL\":1,\"Jobs\":0,\"Code\":127,\"WSL\":false,\"Root\":false}",
+        "timestamp": 1753704103,
+        "ttl": 86400
+    }
+}

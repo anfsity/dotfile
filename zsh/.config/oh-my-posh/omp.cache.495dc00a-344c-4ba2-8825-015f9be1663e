@@ -1,0 +1,12 @@
+{
+    "prompt_count_cache": {
+        "value": "18",
+        "timestamp": 1753626389,
+        "ttl": 86400
+    },
+    "template_cache": {
+        "value": "{\"SegmentsCache\":{\"Executiontime\":{\"Segment\":{\"Text\":\" \\u003c#BBC4B9\\u003e0.017s\\u003c/\\u003e \\u003c#fff\\u003e󰇝\\u003c/\\u003e\",\"Index\":0},\"FormattedMs\":\"0.017\",\"Ms\":17},\"Path\":{\"Segment\":{\"Text\":\"  home / .config / fastfetch\",\"Index\":0},\"Location\":\"/home/anfsity/.config/fastfetch\",\"Path\":\"home / .config / fastfetch\",\"Folders\":[{\"Name\":\".config\",\"Path\":\"home/.config\",\"Display\":false},{\"Name\":\"fastfetch\",\"Path\":\"home/.config/fastfetch\",\"Display\":false}],\"StackCount\":1,\"Writable\":true,\"RootDir\":false},\"Session\":{\"Segment\":{\"Text\":\"anfsity \",\"Index\":0},\"SSHSession\":false},\"Shell\":{\"Segment\":{\"Text\":\" \\u003c#fff\\u003e\\u003c/\\u003e zsh \",\"Index\":1},\"Name\":\"zsh\",\"Version\":\"5.9\"},\"Status\":{\"Segment\":{\"Text\":\" ~ \",\"Index\":1},\"String\":\"0\",\"Meaning\":\"0\",\"Error\":false},\"Time\":{\"Segment\":{\"Text\":\" Sunday \\u003c#fff\\u003eat\\u003c/\\u003e 10:26 PM \",\"Index\":1},\"CurrentDate\":\"2025-07-27T22:26:29.982319153+08:00\",\"Format\":\"Monday \\u003c#fff\\u003eat\\u003c/\\u003e 3:04 PM\"}},\"Segments\":{},\"Var\":{},\"PWD\":\"~/.config/fastfetch\",\"Folder\":\"fastfetch\",\"PSWD\":\"\",\"UserName\":\"anfsity\",\"HostName\":\"Anfsity\",\"ShellVersion\":\"5.9\",\"Shell\":\"zsh\",\"AbsolutePWD\":\"/home/anfsity/.config/fastfetch\",\"OS\":\"arch\",\"Version\":\"26.15.0\",\"PromptCount\":18,\"SHLVL\":1,\"Jobs\":0,\"Code\":0,\"WSL\":false,\"Root\":false}",
+        "timestamp": 1753626389,
+        "ttl": 86400
+    }
+}

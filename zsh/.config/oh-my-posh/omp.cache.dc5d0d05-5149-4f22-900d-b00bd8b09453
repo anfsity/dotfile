@@ -1,0 +1,12 @@
+{
+    "prompt_count_cache": {
+        "value": "36",
+        "timestamp": 1753200581,
+        "ttl": 86400
+    },
+    "template_cache": {
+        "value": "{\"SegmentsCache\":{\"Executiontime\":{\"Segment\":{\"Text\":\" \\u003c#BBC4B9\\u003e1.51s\\u003c/\\u003e \\u003c#fff\\u003e󰇝\\u003c/\\u003e\",\"Index\":0},\"FormattedMs\":\"1.51\",\"Ms\":1510},\"Path\":{\"Segment\":{\"Text\":\"  home / CP / Codeforces / Educational Codeforces Round 181 Div. 2\",\"Index\":0},\"Location\":\"/home/anfsity/CP/Codeforces/Educational Codeforces Round 181 Div. 2\",\"Path\":\"home / CP / Codeforces / Educational Codeforces Round 181 Div. 2\",\"Folders\":[{\"Name\":\"CP\",\"Path\":\"home/CP\",\"Display\":false},{\"Name\":\"Codeforces\",\"Path\":\"home/CP/Codeforces\",\"Display\":false},{\"Name\":\"Educational Codeforces Round 181 Div. 2\",\"Path\":\"home/CP/Codeforces/Educational Codeforces Round 181 Div. 2\",\"Display\":false}],\"StackCount\":1,\"Writable\":true,\"RootDir\":false},\"Session\":{\"Segment\":{\"Text\":\"anfsity \",\"Index\":0},\"SSHSession\":false},\"Shell\":{\"Segment\":{\"Text\":\" \\u003c#fff\\u003e\\u003c/\\u003e zsh \",\"Index\":1},\"Name\":\"zsh\",\"Version\":\"5.9\"},\"Status\":{\"Segment\":{\"Text\":\" ~ \",\"Index\":1},\"String\":\"0\",\"Meaning\":\"0\",\"Error\":false},\"Time\":{\"Segment\":{\"Text\":\" Wednesday \\u003c#fff\\u003eat\\u003c/\\u003e 12:09 AM \",\"Index\":1},\"CurrentDate\":\"2025-07-23T00:09:41.550938445+08:00\",\"Format\":\"Monday \\u003c#fff\\u003eat\\u003c/\\u003e 3:04 PM\"}},\"Segments\":{},\"Var\":{},\"PWD\":\"~/CP/Codeforces/Educational Codeforces Round 181 Div. 2\",\"Folder\":\"Educational Codeforces Round 181 Div. 2\",\"PSWD\":\"\",\"UserName\":\"anfsity\",\"HostName\":\"Anfsity\",\"ShellVersion\":\"5.9\",\"Shell\":\"zsh\",\"AbsolutePWD\":\"/home/anfsity/CP/Codeforces/Educational Codeforces Round 181 Div. 2\",\"OS\":\"arch\",\"Version\":\"26.15.0\",\"PromptCount\":36,\"SHLVL\":1,\"Jobs\":0,\"Code\":0,\"WSL\":false,\"Root\":false}",
+        "timestamp": 1753200581,
+        "ttl": 86400
+    }
+}

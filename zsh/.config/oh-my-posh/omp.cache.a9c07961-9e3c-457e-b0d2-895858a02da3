@@ -1,0 +1,12 @@
+{
+    "prompt_count_cache": {
+        "value": "28",
+        "timestamp": 1753372643,
+        "ttl": 86400
+    },
+    "template_cache": {
+        "value": "{\"SegmentsCache\":{\"Executiontime\":{\"Segment\":{\"Text\":\" \\u003c#BBC4B9\\u003e0.164s\\u003c/\\u003e \\u003c#fff\\u003e󰇝\\u003c/\\u003e\",\"Index\":0},\"FormattedMs\":\"0.164\",\"Ms\":164},\"Path\":{\"Segment\":{\"Text\":\"  home / CP / Codeforces / Other\",\"Index\":0},\"Location\":\"/home/anfsity/CP/Codeforces/Other\",\"Path\":\"home / CP / Codeforces / Other\",\"Folders\":[{\"Name\":\"CP\",\"Path\":\"home/CP\",\"Display\":false},{\"Name\":\"Codeforces\",\"Path\":\"home/CP/Codeforces\",\"Display\":false},{\"Name\":\"Other\",\"Path\":\"home/CP/Codeforces/Other\",\"Display\":false}],\"StackCount\":0,\"Writable\":true,\"RootDir\":false},\"Session\":{\"Segment\":{\"Text\":\"anfsity \",\"Index\":0},\"SSHSession\":false},\"Shell\":{\"Segment\":{\"Text\":\" \\u003c#fff\\u003e\\u003c/\\u003e zsh \",\"Index\":1},\"Name\":\"zsh\",\"Version\":\"5.9\"},\"Status\":{\"Segment\":{\"Text\":\" ~ \",\"Index\":1},\"String\":\"0\",\"Meaning\":\"0\",\"Error\":false},\"Time\":{\"Segment\":{\"Text\":\" Thursday \\u003c#fff\\u003eat\\u003c/\\u003e 11:57 PM \",\"Index\":1},\"CurrentDate\":\"2025-07-24T23:57:23.130194626+08:00\",\"Format\":\"Monday \\u003c#fff\\u003eat\\u003c/\\u003e 3:04 PM\"}},\"Segments\":{},\"Var\":{},\"PWD\":\"~/CP/Codeforces/Other\",\"Folder\":\"Other\",\"PSWD\":\"\",\"UserName\":\"anfsity\",\"HostName\":\"Anfsity\",\"ShellVersion\":\"5.9\",\"Shell\":\"zsh\",\"AbsolutePWD\":\"/home/anfsity/CP/Codeforces/Other\",\"OS\":\"arch\",\"Version\":\"26.15.0\",\"PromptCount\":28,\"SHLVL\":2,\"Jobs\":0,\"Code\":0,\"WSL\":false,\"Root\":false}",
+        "timestamp": 1753372643,
+        "ttl": 86400
+    }
+}
