@@ -115,6 +115,7 @@ alias ll='eza -l -h --git --icons'
 alias la='eza -la -h --git --icons'
 alias lt='eza --tree'
 alias lsd='eza -lD'
+alias cl=clear
 
 eval "$(oh-my-posh init zsh --config ~/.config/oh-my-posh/themes/uew.omp.json)"
 eval "$(zoxide init zsh)"
