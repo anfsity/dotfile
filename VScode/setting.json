@@ -1,0 +1,56 @@
+{
+    // theme 
+    "workbench.colorTheme": "Tokyo Night",
+    "workbench.iconTheme": "material-icon-theme",
+    // codesnap
+    "codesnap.shutterAction": "copy",
+    // clangd
+    "clangd.arguments": [
+        "--clang-tidy",
+        "--j=12",
+        "--background-index",
+        "--header-insertion=never",
+        "--inlay-hints=true",
+        "--fallback-style=LLVM, indent=4",
+    ],
+    // font
+    "editor.fontFamily": "'CodeNewRoman Nerd Font Mono'",
+    "editor.fontLigatures": true,
+    // other
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+    // vim 
+    "telemetry.telemetryLevel": "off",
+    "vim.leader": "<space>",
+    "vim.easymotion": true,
+    "vim.incsearch": true,
+    "vim.useSystemClipboard": true,
+    "vim.useCtrlKeys": true,
+    "vim.hlsearch": true,
+    "vim.highlightedyank.enable": true,
+    "vim.enableNeovim": true,
+    "vim.neovimPath": "/usr/bin/nvim",
+    "vim.neovimConfigPath": "/home/anfsity/.config/nvim",
+    "vim.normalModeKeyBindingsNonRecursive": [
+        { "before": [";"], "after": [":"] },
+        { "before": ["<Esc>"], "commands": [":nohl"] },
+        { "before": ["<leader>", "w"], "commands": ["workbench.action.files.save"] },
+        { "before": ["<leader>", "x"], "commands": ["workbench.action.closeActiveEditor"] },
+        { "before": ["<leader>", "f", "f"], "commands": ["workbench.action.quickOpen"] },
+        { "before": ["<leader>", "f", "b"], "commands": ["workbench.action.showAllEditors"] },
+        { "before": ["<leader>", "f", "s"], "commands": ["workbench.action.findInFiles"] },
+        { "before": ["<leader>", "f", "m"], "commands": ["editor.action.formatDocument"] },
+        { "before": ["<leader>", "s", "v"], "commands": ["workbench.action.splitEditor"] },
+        { "before": ["<leader>", "s", "h"], "commands": ["workbench.action.splitEditorDown"] },
+        { "before": ["<C-n>"], "commands": ["workbench.action.toggleSidebarVisibility"] },
+        { "before": ["<Tab>"], "commands": ["workbench.action.nextEditor"] },
+        { "before": ["<S-Tab>"], "commands": ["workbench.action.previousEditor"] }
+    ],
+
+    "vim.normalModeKeyBindings": [
+        { "before": ["<C-a>"], "after": ["g", "g", "V", "G"] },
+        { "before": ["F"], "after": ["%"] }
+    ],
+    "github.copilot.chat.agent.autoFix": false,
+}
