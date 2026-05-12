@@ -119,3 +119,23 @@ alias cl=clear
 
 eval "$(oh-my-posh init zsh --config ~/.config/oh-my-posh/themes/uew.omp.json)"
 eval "$(zoxide init zsh)"
+
+# eval $(thefuck --alias)
+export PATH="$HOME/.cargo/bin:$PATH"
+
+# --- Modern CLI Tool Overrides (Optimized) ---
+alias cat='bat --paging=never'
+alias lg='lazygit'
+alias du='dust -r'
+alias cleanup='sudo pacman -Rns $(pacman -Qtdq)'
+alias pacclean='sudo pacman -Scc'
+# Zsh integration
+# >>> yanami >>>
+# if command -v yanami >/dev/null 2>&1; then
+#   yanami startup
+#   alias firefox='yanami browser firefox'
+#   alias google-chrome='yanami browser google-chrome'
+#   alias chromium='yanami browser chromium'
+#   alias brave-browser='yanami browser brave-browser'
+# fi
+# <<< yanami <<<
